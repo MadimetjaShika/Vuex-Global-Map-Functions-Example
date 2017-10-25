@@ -1,9 +1,9 @@
 # Vuex Global Map Functions Example
-### An example/demo of registering global vuex map function VueJS.
+### An example/demo of creating global vuex mapper functions in Vuejs
 
-Live Demo available at [GitHub Pages](https://madimetjashika.github.io/VueJS-Global-Mixin-Plugin-Example/)
+Live Demo available at [GitHub Pages](https://madimetjashika.github.io/Vuex-Global-Map-Functions-Example)
 
-Tutorial available at [blog.mjshika.xyz](https://blog.mjshika.xyz/blog/post/registering-globally-available-helper-scripts-in-vuejs)
+Tutorial available at [blog.mjshika.xyz](https://blog.mjshika.xyz/blog/post/an-alternative-to-global-vuex-map-functions)
 
 ## Build Setup
 
